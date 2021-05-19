@@ -197,4 +197,5 @@ gety(P,Y):- Y is truncate(P/4+1).
 - '15'/'2'/'1'/'12'/'8'/'5'/'6'/'11'/'4'/'9'/'10'/'7'/'3'/'14'/'13'/0
 
 %solucaopuzzle(X).
+git clone https://gitlab.com/dpge_coppe_funcionarios/Facilitador.git --branch origin/verde-base/dev --single-branch
 */
